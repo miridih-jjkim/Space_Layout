@@ -64,7 +64,7 @@ pip install pandas pillow tqdm opencv-python numpy torch torchvision matplotlib 
 ---
 
 ## 📌 Notes
-- `template_info.csv`는 [해당링크]([https://openai.com](https://drive.google.com/file/d/12Tor3BzGhv1Si0LS70YFXCJGzY2K9XVA/view?usp=sharing)에서 다운받을 수 있습니다.
+- `template_info.csv`는 [해당링크](https://drive.google.com/file/d/12Tor3BzGhv1Si0LS70YFXCJGzY2K9XVA/view?usp=sharing)에서 다운받을 수 있습니다.
 - `template_info.csv` 파일에는 `template_idx`, `page_num`, `image_type`, `full_image_path` 등의 정보가 포함되어야 합니다.
 - 각 버전별 실루엣 이미지는 `/data/shared2/jjkim/margin_vX` 형식의 폴더에 저장됩니다.
 - `compare_v1_v5_dreamsim.py` 실행 시 `result_images/` 폴더에 비교 결과가 생성됩니다.
